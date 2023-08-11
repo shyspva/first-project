@@ -22,7 +22,6 @@ span a {
     justify-content: space-between;
     padding: 30px;
     align-items: center;
-    
 }
 .two {
    margin-top: 100px;
@@ -143,7 +142,7 @@ span a {
 }
 .p8 {
     line-height: 1.4;
-    width: 350px;
+    max-width: 350px;
     color: #151519;
 }
 .btn3 {
@@ -485,7 +484,7 @@ span a {
 }
 @media (max-width:900px) {
     .box4 {
-        width: 50%;
+        width: 48%;
     }
     .pic8 {
         width: 100%;
@@ -534,6 +533,47 @@ span a {
         width: 100%;
     }
 } 
+@media (max-width:600px) {
+   .alls1 {
+    padding: 10px;
+   }
+   .alls2 {
+    padding: 10px;
+   }
+   .main3 {
+    padding: 10px;
+   }
+   .box4 {
+    padding: 10px;
+   }
+   .main4 {
+    padding: 10px;
+   }
+   .main5 {
+    padding: 10px;
+   }
+   .box6 {
+    padding: 20px;
+   }
+   .main6 {
+    padding: 10px;
+   }
+   .main7 {
+    padding: 10px;
+   }
+   .box9 {
+    padding: 10px;
+   }
+   .box10 {
+    padding: 10px;
+   }
+   .main8 {
+    padding: 10px;
+   }
+   .main9 {
+    padding: 10px;
+   }
+}
 @media (max-width:580px) {
     .pic5 {
         width: 100%;
