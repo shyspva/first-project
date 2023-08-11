@@ -69,7 +69,7 @@ span a {
     margin-bottom: 20px;
 }
 .p2 {
-    width: 300px;
+    max-width: 300px;
     margin-bottom: 40px;
     color: #151519;
 }
