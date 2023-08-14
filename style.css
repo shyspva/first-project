@@ -136,7 +136,7 @@ span a {
     margin-bottom: 20px;
 }
 .p7 {
-    width: 300px;
+    max-width: 300px;
     margin-bottom: 20px;
     color: #151519;
 }
